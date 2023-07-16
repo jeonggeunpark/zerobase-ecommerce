@@ -9,7 +9,6 @@ public class AddUser {
     private String email;
     private String name;
     private String password;
-    private LocalDate birth;
-    private String phoneNumber;
+    private String Number;
 
 }
