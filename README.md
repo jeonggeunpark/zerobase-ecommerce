@@ -14,9 +14,10 @@
 - [ ] 검색기능 추가
 - [ ] 상품담기/조회/삭제 기능 추가
 
-## EDR <br>
+## ERD <br>
+![ERD](https://github.com/jeonggeunpark/zerobase-ecommerce/assets/127445807/b5e89098-027d-4637-87c8-3cc05414326a)
 
-![ERD](https://github.com/jeonggeunpark/zerobase-ecommerce/assets/127445807/8c520b02-068b-4739-a53d-0f66a53684a1)
+
 
 ## 추가 기능 <br>
  추가시 작성 예정
