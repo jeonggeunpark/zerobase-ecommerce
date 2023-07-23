@@ -18,6 +18,7 @@ import java.util.stream.Collectors;
 @Entity(name = "MEMBER")
 public class MemberEntity implements UserDetails {
 
+    @Id
     private Long id;
     private String username;
     private String password;
